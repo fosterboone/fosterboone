@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fosterboone
-- 👀 I’m interested in Data Science, Visualization adn Statistics
+- 👀 I’m interested in Data Science, Machine Learning and Statistics
 - 🌱 I’m currently studying Data Science at American University
 
 <!---
